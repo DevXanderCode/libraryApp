@@ -18,6 +18,7 @@
   "homepage": "https://github.com/DevXanderCode/libraryApp#readme",
   "dependencies": {
     "chalk": "4.1.0",
+    "debug": "^4.3.1",
     "express": "^4.17.1"
   }
 }
