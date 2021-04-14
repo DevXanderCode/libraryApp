@@ -17,9 +17,12 @@
   },
   "homepage": "https://github.com/DevXanderCode/libraryApp#readme",
   "dependencies": {
+    "bootstrap": "^4.6.0",
     "chalk": "4.1.0",
     "debug": "^4.3.1",
     "express": "^4.17.1",
-    "morgan": "^1.10.0"
+    "jquery": "^3.6.0",
+    "morgan": "^1.10.0",
+    "popper.js": "^1.16.1"
   }
 }
