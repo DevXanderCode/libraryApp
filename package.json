@@ -38,6 +38,10 @@
     "ignore": [
       "node_modules/**/node_modules"
     ],
-    "delay": "2500"
+    "delay": "2500",
+    "env": {
+      "NODE_ENV": "developement",
+      "PORT": 8080
+    }
   }
 }
